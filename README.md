@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh-if)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh-if&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wh-if)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **wh-if/wh-if** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
